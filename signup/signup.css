@@ -1,0 +1,24 @@
+form{
+    
+    padding: 26px;
+    padding-left: 70px;
+    margin-right: 150px;
+    margin-left: 150px;
+    margin-top: 60px;
+}
+
+#autoCarousel{
+    margin-top: 28%;
+    margin-left: 50px;
+    
+
+}
+.carousel-inner img {
+    width: 100%; /* Ensure images fit the carousel width */
+    height: 100%; /* Ensure images fit the carousel height */
+    object-fit: cover; /* Maintain image aspect ratio while filling space */
+  }
+
+.carousel-inner h5 p{
+    text-shadow: 0 0 6px black;
+}  

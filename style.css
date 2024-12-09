@@ -1,0 +1,26 @@
+.text-justify {
+    text-align: justify;
+  }
+
+
+body{
+  font-family: sans-serif;
+} 
+
+@keyframes fadein {
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
+}
+
+.animated{
+  animation: fadein 2s ease-in forwards;
+} 
+.rounded{
+  animation: fadein 2s ease-in forwards;
+}
+
+
